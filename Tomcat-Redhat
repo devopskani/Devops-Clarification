@@ -2,7 +2,7 @@
 
     3  yum install wget
     4  cd /opt
-    5  wget http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.37/bin/apache-tomcat-8.5.37.tar.gz
+    5  wget http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.42/bin/apache-tomcat-8.5.42.tar.gz
     6  ls
     7  tar -zvxf
     8  tar -zvxf apache-tomcat-8.5.37.tar.gz
